@@ -14,10 +14,9 @@
 
 ---
 
-## 1. Java
+## 1. Java & OOP
 ### 이론 :arrow_forward: [내용 보러가기!](/java/contents.md)
 * java 프로그래밍 이란
-* java와 c/c++의 차이점
 * java언어의 장단점
 * java의 접근 제어자의 종류와 특징
 * OOP의 4가지 특징
@@ -33,33 +32,106 @@
 * 오버로딩과 오버라이딩의 차이(Overloading vs Overriding)
 * Call by Reference와 Call by Value의 차이
 * 인터페이스와 추상 클래스의 차이(Interface vs Abstract Class)
-* 프로세스와 스레드의 차이(Process vs Thread)
-
-<!-- ## 세션과 쿠키의 차이(Session vs Cookie) -->
-
-<!-- ## 동기화 객체의 종류
-* 뮤텍스와 세마포어의 차이 -->
-
-<!-- ## 동기화와 비동기화의 차이(Syncronous vs Asyncronous) -->
-
-### 관련 질문들 :arrow_forward: [답변 보러가기!](/java/answer.md)
-* Q1. java의 제네릭(Generic)과 c++의 템플릿(Template)의 차이
-* Q2.
+* Java lambda vs anonymous class instance
+* Java stream
+* Java7에서 달라진 점
+* Java8에서 달라진 점
+* Stream API
+* Java의 메모리 구조
+* GC algorithm
+* Java의 Generic이란
+* Fork/Join framework
+* Synchronized
 
 
 
 ## 2. Spring Framework
 ### 이론 :arrow_forward: [내용 보러가기!](/spring-framework/contents.md)
-* 스프링이란?
-* MVC 패턴이란?
+* 스프링이란? Spring의 특징?
+* 왜 스프링을 써야 할까(장점과 단점)?
+* POJO란
+* Bean wiring은 무엇인가?
 * DI(Dependency Injection)란?
+* IoC와 DI의 차이점
+* Spring은 DI를 어떻게 구현하고 있을까?
+* Spring Bean의 개념
+* Spring Bean의 생명주기
+* Bean scope에는 어떤 것이 있고 특징은?
 * AOP(Aspect Oriented Programming)란?
+* AOP를 언제 쓸 수 있을까?
+* AOP의 구성요소
+* Spring AOP
 * Spring JDBC를 이용한 데이터 접근
+* Spring에서 Transactional
 
 ### 관련 질문들 :arrow_forward: [답변 보러가기!](/spring-framework/answer.md)
 * Q1.
 * Q2.
 
+## 3. Data structure
+* Stack
+* Queue
+* Deque
+* LinkedList
+* ArrayList
+* Heap
+* HashMap
+* Binary Search Tree
+* AVL Tree
+* Red-Black Tree
+* 2-3 Tree
+* 2-3-4 Tree
+* B-Tree
+* B+Tree
+
+## 4. Algorithm
+* bubble sort
+* insertion sort
+* selection sort
+* quick sort
+* merge sort
+* heap sort
+
+## 5. Database
+
+## 6. Design pattern
+* Singleton
+* Abstract Factory
+* Factory Method
+* Template Method
+* Command
+* Strategy
+* Pub/sub
+* Visitor
+* Chain of responsibilities
+* Observer
+* Facade
+* Mediator
+* Adapter
+* Proxy
+* Decorator
+* Composite
+* Builder
+* CQRS
+* Flyweight
+* Prototype
+* Object-pool
+
+
+
+## 7. Computer science etc(OS, Network and etc)
+* 프로세스와 스레드의 차이(Process vs Thread)
+* http vs https
+* TCP vs UDP
+* UTF-8 vs 
+* Session vs Cookie
+* http 1.1 vs http 2.0
+* Syncronous vs Asyncronous
+* Mutex vs Semaphore
+* HTTP method
+* Deadlock과 Deadlock의 조건
+* Library vs Framework
+* RESTful API란
 
 
 # Main Reference Materials
