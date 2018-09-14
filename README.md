@@ -1,6 +1,6 @@
 # java-and-springframework-interview-questions
-**:seedling: Java ・ Spring Framework와 관련된 기술 면접에 대비하기 위해서 기본 개념을 정리하는 Repository 입니다.**
-<br> 내용에 오류가 있거나 추가할 내용이 있다면 Pull Request를 통해서 알려주시면 감사하겠습니다 :)
+**:seedling: 경력직 Java ・ Spring Framework와 관련된 기술 면접에 대비하기 위한 개념을 정리하는 Repository 입니다.**
+<br> 궁금한 점이나 내용 오류 지적(감사합니다)은 issue로 제기해주신다면 감사하겠습니다. 기여를 하고 싶은 분은 언제든지 환영합니다.
 
 
 **:book: Contents**
